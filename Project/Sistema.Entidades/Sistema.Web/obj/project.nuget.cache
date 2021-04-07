@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "iyj1lo35vBF5bWaM3J4Qa0RR9RFYfqxl+j77pLTVZ4s0G6QSPaqjHoyFAnFNTIdmuHw9jCKLYwBpoXQZK2GwIg==",
+  "dgSpecHash": "kDgxz97BTvkLVBJoVshIc7N2VEzAvr90H4De7Umlo6M1SSB9K+r1FTmFKH4sJiZYkg4QBlLkVt+qrBQbOg/vfA==",
   "success": true,
-  "projectFilePath": "C:\\Project\\Sistema.Entidades\\Sistema.Web\\Sistema.Web.fsproj",
+  "projectFilePath": "C:\\Analisis Sistemas Proyecto\\Project\\Sistema.Entidades\\Sistema.Web\\Sistema.Web.fsproj",
   "expectedPackageFiles": [
     "C:\\Users\\erick\\.nuget\\packages\\fsharp.core\\5.0.0\\fsharp.core.5.0.0.nupkg.sha512",
     "C:\\Users\\erick\\.nuget\\packages\\microsoft.aspnetcore.mvc.razor.extensions\\3.1.12\\microsoft.aspnetcore.mvc.razor.extensions.3.1.12.nupkg.sha512",
