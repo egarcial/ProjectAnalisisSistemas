@@ -1,8 +1,11 @@
-﻿namespace Sistema.Entidades.Almacen
+﻿using System.ComponentModel.DataAnnotations;
+
+namespace Sistema.Entidades.Almacen
 {
     public class Ingreso
     {
         public int idIngreso { get; set; }
+        [Required]
         public string tipoComprobante { get; set; }
         public string serieComprobante { get; set; }
         public string numeroComprobante { get; set; }

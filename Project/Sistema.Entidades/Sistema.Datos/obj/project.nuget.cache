@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "UE64/4kiB49/Y3CMDEnrnPmiZRg5CF989QHGbd6d9ep4kMpdMLwwS/mUA9pPlix/YzCPHG1jQCVki7IlHUNl5A==",
+  "dgSpecHash": "K8EsoV0SS1xrhXBmyGlh3QqzOq4ew/SajpWSmkgplvPZB6Kg3+J6uSKOCH7PxHUzyUcDDKVGtiiujsDuTdFC8A==",
   "success": true,
-  "projectFilePath": "C:\\Analisis Sistemas Proyecto\\Project\\Sistema.Entidades\\Sistema.Datos\\Sistema.Datos.csproj",
+  "projectFilePath": "C:\\ProyectoAnalisis\\ProjectAnalisisSistemas\\Project\\Sistema.Entidades\\Sistema.Datos\\Sistema.Datos.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
